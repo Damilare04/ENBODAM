@@ -190,7 +190,7 @@ footer{
     width: 90%;
     margin: auto;
     /* border:1px black solid; */
-    padding-left:45px; 
+    padding: 20px; 
     display: grid;
     grid-template-columns: 1fr 1fr;
     margin-bottom: 20px;
